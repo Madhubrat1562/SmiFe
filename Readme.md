@@ -23,7 +23,7 @@ https://drive.google.com/drive/folders/1mAY06UK0Xq9_Dto3ytCMjZmEj11jNDGZ
 
 ### Current Features:-
 
--Login/Signup \
+- Login/Signup \
 -User can have a hybrid profile, where they can add their shop and sell their products and buy items also\
 -User dashboard where they can add shops/items to their watchlist\
 -User can search products\
